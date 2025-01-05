@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
+
 public class BookExchangePortalApplication {
 
 	public static void main(String[] args) {
